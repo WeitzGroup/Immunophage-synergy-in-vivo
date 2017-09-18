@@ -1,7 +1,7 @@
 # Immunophage-synergy-in-vivo
 MATLAB scripts for simulating an in vivo model of phage therapy in acute pneumonia by Pseudomonas aeruginosa.
 
-The scripts generate figures in the paper: Roach & Leung et al., Synergy between the Host Immune System and Bacteriophage Is Essential for Successful Phage Therapy against an Acute Respiratory Pathogen, Cell Host & Microbe 22, 38 (2017).
+The scripts generate figures in the paper: Roach & Leung et al., Synergy between the Host Immune System and Bacteriophage Is Essential for Successful Phage Therapy against an Acute Respiratory Pathogen, Cell Host & Microbe 22, 38 (2017). [DOI: 10.1016/j.chom.2017.06.018](https://doi.org/10.1016/j.chom.2017.06.018)
 
 Run Gen_all_figs.m to generate all the figures in the paper and supplementary.
 The scripts are grouped according to their outputs into different directories:
